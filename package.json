@@ -13,15 +13,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stephendpmurphy/serial-dev.git"
+    "url": "git+https://github.com/dsm/serial-dev.git"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/stephendpmurphy/serial-dev/issues"
+    "url": "https://github.com/dsm/serial-dev/issues"
   },
-  "homepage": "https://github.com/stephendpmurphy/serial-dev#readme",
+  "homepage": "https://github.com/dsm/serial-dev#readme",
   "devDependencies": {
     "@electron-forge/cli": "^6.0.0-beta.54",
     "@electron-forge/maker-deb": "^6.0.0-beta.54",
@@ -73,7 +73,7 @@
               ],
               "description": "Open-Source Cross-Platform Serial Monitor written using Electron and NodeJS",
               "genericName": "Serial Dev",
-              "homepage": "https://github.com/stephendpmurphy/serial-dev",
+              "homepage": "https://github.com/dsm/serial-dev",
               "icon": "./src/assets/icons/thunder_256x256.png",
               "maintainer": "Stephen Murphy",
               "name": "serial_dev",
